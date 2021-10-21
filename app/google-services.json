@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "370855802897",
+    "project_id": "driveit-e2c34",
+    "storage_bucket": "driveit-e2c34.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370855802897:android:bc20b267f501729d3d19b0",
+        "android_client_info": {
+          "package_name": "com.sklagat46.driveit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370855802897-mdo6eukuciaeue2t6l0gea1ddu9mo7ks.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD6vQKH8vWKlPlnbGgx5U4XV9CoVR9v6q4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370855802897-mdo6eukuciaeue2t6l0gea1ddu9mo7ks.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
